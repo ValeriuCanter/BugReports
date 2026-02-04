@@ -1,4 +1,4 @@
-# BugReports
+# Bug Reports
 
 ## Menu links lead to wrong pages
 
